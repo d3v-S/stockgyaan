@@ -20,4 +20,9 @@ a pyqt stock terminal for NSE market.
  
 
 
+### to run:
+- use pipreqs for requirement.txt
+- pip install -r requirement.txt
+- python3 main.py
+
 
